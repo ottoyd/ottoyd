@@ -14,8 +14,8 @@
                         </div>
                     @endif
 
-                                <a href ="/"> <img src="Found.png"></a>
-                                <a href ="/"> <img src="Lost.png"></a>
+                                <a href ="{{ url('/barang/kehilangan') }}"> <img src="Found.png"></a>
+                                <a href ="{{ url('/barang/menemukan') }}"> <img src="Lost.png"></a>
                 </div>
             </div>
         </div>

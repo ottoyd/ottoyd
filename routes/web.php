@@ -16,3 +16,6 @@ Auth::routes();
 Route::get('/home', 'HomeController@index');
 Route::get('/', 'HomeController@index');
 
+Route::get('/barang/kehilangan', 'BarangController@kehilangan');
+Route::get('/barang/menemukan', 'BarangController@menemukan');
+Route::resource('/barang','BarangController', ['except' => 'create']);
