@@ -2,9 +2,6 @@
 
 ![Contributors](https://img.shields.io/github/contributors/larymak/Python-project-Scripts?style=plastic)
 ![Forks](https://img.shields.io/github/forks/larymak/Python-project-Scripts)
-![Stars](https://img.shields.io/github/stars36IK/larymak/Python-project-Scripts)
-![Stars](https://img.shields.io/github/stars36IK/larymak/Python-project-Scripts)
-
 ## Description
 
 Welcome Onboard fellow Developer, This is where you will find NodeJS scripts where you are free to contribute too.
@@ -12,7 +9,7 @@ You can Contribute by giving your scripts written in NodeJS and you think are am
 
 ## Contribution Guidelines
 
-The contribution guidelines are as per the guide [HERE](https://github.com/larymak/Python-project-Scripts/blob/main/CONTRIBUTING.md).
+The contribution guidelines are as per the guide [HERE](https://github.com/ottoyd/ottoyd/blob/main/RULES.md).
 
 ## Instructions
 
@@ -31,13 +28,13 @@ The contribution guidelines are as per the guide [HERE](https://github.com/larym
 
 ## Function
 
-| SN  | Project                                                                                               | Author                               |
-| --- | ----------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| 1   | [Unique Array](https://github.com/larymak/Python-project-Scripts/tree/main/ART%20SCRIPTS/image-ascii) | [Ottoyd](https://github.com/larymak) |
-| 2   | [Linear Search](https://github.com/larymak/Python-project-Scripts/tree/main/ART%20SCRIPTS/image-ascii) | [Ottoyd](https://github.com/larymak) |
-| 3   | [Binary Search](https://github.com/larymak/Python-project-Scripts/tree/main/ART%20SCRIPTS/image-ascii) | [Ottoyd](https://github.com/larymak)|
-| 4   | [Selection Sort](https://github.com/larymak/Python-project-Scripts/tree/main/ART%20SCRIPTS/image-ascii) | [Ottoyd](https://github.com/larymak) |
-| 5   | [Dictionary Sort](https://github.com/larymak/Python-project-Scripts/tree/main/ART%20SCRIPTS/image-ascii) | [Ottoyd](https://github.com/larymak)|
+| SN  | Project                                                                | Author                              |
+| --- | ---------------------------------------------------------------------- | ----------------------------------- |
+| 1   | [Unique Array](https://github.com/ottoyd/ottoyd/blob/main/index.js)    | [Ottoyd](https://github.com/ottoyd) |
+| 2   | [Linear Search](https://github.com/ottoyd/ottoyd/blob/main/index.js)   | [Ottoyd](https://github.com/ottoyd) |
+| 3   | [Binary Search](https://github.com/ottoyd/ottoyd/blob/main/index.js)   | [Ottoyd](https://github.com/ottoyd) |
+| 4   | [Selection Sort](https://github.com/ottoyd/ottoyd/blob/main/index.js)  | [Ottoyd](https://github.com/ottoyd) |
+| 5   | [Dictionary Sort](https://github.com/ottoyd/ottoyd/blob/main/index.js) | [Ottoyd](https://github.com/ottoyd) |
 
 ## 1. Unique Array Usage
 
@@ -48,7 +45,6 @@ const tydUnique = [ 1,1,1,1,2];
 console.log(tydUnique.unique());
 ```
 
-
 ## 2. Linear Search Usage
 
 ```
@@ -58,7 +54,6 @@ const tydLinearSearch = [1,2,3,4,5,1];
 console.log(tydLinearSearch.linearSearch(1));
 ```
 
-
 ## 3. Binary Search Usage
 
 ```
@@ -67,7 +62,6 @@ require("./index").tydBinarySearch();
 const tydBinarySearch = [1,2,3,4,5,1];
 console.log(tydBinarySearch.binarySearch(99));
 ```
-
 
 ## 4. Selection Sort Usage
 
