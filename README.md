@@ -3,6 +3,7 @@
 ![Contributors](https://img.shields.io/github/contributors/larymak/Python-project-Scripts?style=plastic)
 ![Forks](https://img.shields.io/github/forks/larymak/Python-project-Scripts)
 ![Stars](https://img.shields.io/github/stars36IK/larymak/Python-project-Scripts)
+![Stars](https://img.shields.io/github/stars36IK/larymak/Python-project-Scripts)
 
 ## Description
 
