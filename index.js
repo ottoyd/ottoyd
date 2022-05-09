@@ -23,6 +23,7 @@ module.exports = {
 
   tydBinarySearch: () => {
     Array.prototype.binarySearch = function (target) {
+      if (!target) return false;
       let sortedArray = this.sort((a, b) => {
         return a - b;
       });
