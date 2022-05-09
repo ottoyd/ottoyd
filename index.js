@@ -85,4 +85,20 @@ module.exports = {
       return dictionaries;
     };
   },
+
+  tydMoment: function () {
+    return new Date()
+      .toISOString()
+      .replace(/T/, " ") // replace T with a space
+      .replace(/\..+/, "");
+  },
+
+  tydAll: function () {
+    tydUnique();
+    tydLinearSearch();
+    tydBinarySearch();
+    tydSelectionSort();
+    tydDictionarySort();
+    tydMoment();
+  },
 };

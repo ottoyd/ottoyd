@@ -35,6 +35,8 @@ The contribution guidelines are as per the guide [HERE](https://github.com/ottoy
 | 3   | [Binary Search](https://github.com/ottoyd/ottoyd/blob/main/index.js)   | [Ottoyd](https://github.com/ottoyd) |
 | 4   | [Selection Sort](https://github.com/ottoyd/ottoyd/blob/main/index.js)  | [Ottoyd](https://github.com/ottoyd) |
 | 5   | [Dictionary Sort](https://github.com/ottoyd/ottoyd/blob/main/index.js) | [Ottoyd](https://github.com/ottoyd) |
+| 6   | [Compact Moment](https://github.com/ottoyd/ottoyd/blob/main/index.js) 
+| [Ottoyd](https://github.com/ottoyd) |
 
 ## 1. Unique Array Usage
 
