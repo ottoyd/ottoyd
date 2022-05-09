@@ -7,6 +7,11 @@
 Welcome Onboard fellow Developer, This is where you will find NodeJS scripts where you are free to contribute too.
 You can Contribute by giving your scripts written in NodeJS and you think are amazing for other people to see.
 
+## Installation
+
+```
+npm i ottoyd --save
+```
 ## Contribution Guidelines
 
 The contribution guidelines are as per the guide [HERE](https://github.com/ottoyd/ottoyd/blob/main/RULES.md).
@@ -35,10 +40,9 @@ The contribution guidelines are as per the guide [HERE](https://github.com/ottoy
 | 3   | [Binary Search](https://github.com/ottoyd/ottoyd/blob/main/index.js)   | [Ottoyd](https://github.com/ottoyd) |
 | 4   | [Selection Sort](https://github.com/ottoyd/ottoyd/blob/main/index.js)  | [Ottoyd](https://github.com/ottoyd) |
 | 5   | [Dictionary Sort](https://github.com/ottoyd/ottoyd/blob/main/index.js) | [Ottoyd](https://github.com/ottoyd) |
-| 6   | [Compact Moment](https://github.com/ottoyd/ottoyd/blob/main/index.js) 
-| [Ottoyd](https://github.com/ottoyd) |
+| 6   | [Compact Moment](https://github.com/ottoyd/ottoyd/blob/main/index.js)  | [Ottoyd](https://github.com/ottoyd) |
 
-## 1. Unique Array Usage
+### 1. Unique Array Usage
 
 ```
 console.log('==== tydUnique ====')
@@ -47,7 +51,7 @@ const tydUnique = [ 1,1,1,1,2];
 console.log(tydUnique.unique());
 ```
 
-## 2. Linear Search Usage
+### 2. Linear Search Usage
 
 ```
 console.log('==== tydLinearSearch ====')
@@ -56,7 +60,7 @@ const tydLinearSearch = [1,2,3,4,5,1];
 console.log(tydLinearSearch.linearSearch(1));
 ```
 
-## 3. Binary Search Usage
+### 3. Binary Search Usage
 
 ```
 console.log('==== tydBinarySearch ====')
@@ -65,7 +69,7 @@ const tydBinarySearch = [1,2,3,4,5,1];
 console.log(tydBinarySearch.binarySearch(99));
 ```
 
-## 4. Selection Sort Usage
+### 4. Selection Sort Usage
 
 ```
 console.log('==== tydDictionarySort ====')
@@ -74,7 +78,7 @@ const tydDictionarySort = [ 'AERYYXXXZZZZZ', 'BENNY', 'J', 'JONJI' ];
 console.log(tydDictionarySort.dictionarySort());
 ```
 
-## 5. Dictionary Sort Usage
+### 5. Dictionary Sort Usage
 
 ```
 console.log('==== tydSelectionSort ====')
