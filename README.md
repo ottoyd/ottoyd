@@ -1,7 +1,4 @@
 # NPM OTTOYD
-
-![Contributors](https://img.shields.io/github/contributors/larymak/Python-project-Scripts?style=plastic)
-![Forks](https://img.shields.io/github/forks/larymak/Python-project-Scripts)
 ## Description
 
 Welcome Onboard fellow Developer, This is where you will find NodeJS scripts where you are free to contribute too.
